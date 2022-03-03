@@ -1,0 +1,1 @@
+/****************** Models holds application data. They are usually simple class. **********************/
