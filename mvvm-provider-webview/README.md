@@ -1,4 +1,4 @@
-# coleman_shortcut
+# MVVM architechture
 
 A new Flutter project.
 
